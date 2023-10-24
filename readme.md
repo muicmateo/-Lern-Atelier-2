@@ -10,7 +10,7 @@ In dieser Lern-Periode möchte ich unbedingt WinForms benutzen, weil ich es noch
 
 ## Arbeitspakete für 24.10.2023
 - [x]  Einen WinForms projekt in Visual Studio erstellen.
-- [ ]  Mit dem Toolbox Widgets erstellen.
-- [ ]  Die Properties von Widgets ändern
+- [x]  Mit dem Toolbox Widgets erstellen.
+- [x]  Die Properties von Widgets ändern
       
 
