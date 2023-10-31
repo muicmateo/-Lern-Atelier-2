@@ -25,4 +25,8 @@ Ich bin zufrieden mit meiner Arbeit heute. Ich habe mein Notiz App Projekt mit W
 ## Reflexion 31.10.2023
 Heute habe ich mit ein bisschen an meinem Projekt weitergearbeitet. Ich habe in meiner Notepad App manche Events hinzugefügt. Nämlich Undo, Cut, Copy, Paste, Delete und Select All. Find, Find All und Replace sind etwas komplizierter also füge ich sie später ein. Am meistens habe ich am E-Portfolio gearbeitet, weil die Abgabe verschoben wurde und ich wollte ein bisschen vorwärtskommen. Den letzten Arbeitspaket konnte ich nicht vollständig lösen. Ich habe 4.1 übersprungen und habe bis 4.5 gearbeitet. (77 Wörter)
 
+## Arbeitspakete für 07.11.2023 
+- [ ] Recherchieren wie man Find, Find All und Replace programmiert und programmieren.
+- [ ] Files speichern und laden einfügen
+- [ ] Feature für mehrere Windows einfügen 
 
