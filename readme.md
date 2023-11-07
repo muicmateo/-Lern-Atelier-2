@@ -27,6 +27,13 @@ Heute habe ich mit ein bisschen an meinem Projekt weitergearbeitet. Ich habe in 
 
 ## Arbeitspakete für 07.11.2023 
 - [ ] Recherchieren wie man Find, Find All und Replace programmiert und programmieren.
-- [ ] Files speichern und laden einfügen
-- [ ] Feature für mehrere Windows einfügen 
+- [x] Files speichern und laden einfügen
+- [x] Feature für mehrere Windows einfügen 
 
+## Reflexion 07.11.2023
+Heute habe ich das Tutorial fertig angeschaut. Das Programm ist aber noch nicht fertig. Ich möchte noch viele Sachen einfügen und personalisieren. Zum Beispiel Find, Find All, Replace und noch andere muss ich einfügen. Find und Find All habe ich heute probiert aber ich hatte ziemlich viel Schwierigkeiten mit dem. Ich habe aber das Speichern und Laden von Files eingefügt und es funktioniert. Teilweise. 
+
+## Arbeitspakete für 14.11.2023
+- [ ] "Find" probleme lösen
+- [ ] Font ändern einfügen
+- [ ] ein About page schreieben und mit einem neuen Window einfügen
