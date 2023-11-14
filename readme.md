@@ -36,4 +36,10 @@ Heute habe ich das Tutorial fertig angeschaut. Das Programm ist aber noch nicht 
 ## Arbeitspakete für 14.11.2023
 - [ ] "Find" probleme lösen
 - [ ] Font ändern einfügen
-- [ ] ein About page schreieben und mit einem neuen Window einfügen
+- [x] ein About page schreieben und mit einem neuen Window einfügen
+
+## Reflexion für 14.11.2023
+Ich bin heute ehr unzufrieden mit meiner Arbeit. Ich konnte nur den einfachsten Arbeitspaket erledigen. Hälfte der ganzen Zeit habe ich am «Find» und «Find Next» verbraucht und habe teilweise etwas erreicht aber nicht was ich wollte. Immer wenn ich Find Next drücke wird nur das erste Wort highlighted und danach nichts. Nächste Woche werde ich am Programmierprojekt arbeiten. 
+
+## Arbeitspakete für 21.11.2023
+Ich schreibe die Arbeitspakete am Freitag, weil wir am Projekt auch am Freitag arbeiten.
