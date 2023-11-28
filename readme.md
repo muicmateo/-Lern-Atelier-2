@@ -41,5 +41,11 @@ Heute habe ich das Tutorial fertig angeschaut. Das Programm ist aber noch nicht 
 ## Reflexion für 14.11.2023
 Ich bin heute ehr unzufrieden mit meiner Arbeit. Ich konnte nur den einfachsten Arbeitspaket erledigen. Hälfte der ganzen Zeit habe ich am «Find» und «Find Next» verbraucht und habe teilweise etwas erreicht aber nicht was ich wollte. Immer wenn ich Find Next drücke wird nur das erste Wort highlighted und danach nichts. Nächste Woche werde ich am Programmierprojekt arbeiten. 
 
-## Arbeitspakete für 21.11.2023
-Ich schreibe die Arbeitspakete am Freitag, weil wir am Projekt auch am Freitag arbeiten.
+## Reflexion 28.11.2023
+Heute haben wir (Florian, Alex und ich) weiter am Projekt gearbeitet. Wir sind fast fertig mit dem Programmieren. 
+
+
+## Arbeitspakete für 05.12.2023
+- [ ] Design von meiner App ändern (Farben ändern usw.)
+- [ ] Word count hinzufügen
+- [ ] 
