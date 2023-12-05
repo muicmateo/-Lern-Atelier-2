@@ -48,4 +48,10 @@ Heute haben wir (Florian, Alex und ich) weiter am Projekt gearbeitet. Wir sind f
 ## Arbeitspakete für 05.12.2023
 - [ ] Design von meiner App ändern (Farben ändern usw.)
 - [ ] Word count hinzufügen
-- [ ] 
+
+## Reflexion 12.05.2023
+Heute war ich überall. Ich wollte den Advent of Code machen, bin aber nicht weitergekommen. Dann wollte ich weiter an meinem Projekt arbeiten und konnte auch nicht weitermachen. Ich wusste nicht wie. Einige Dinge waren nach der Diskussion mit Herr Colic klar, aber ich konnte die Aufgaben, die ich mir selbst gestellt hatte, immer noch nicht erledigen. Ich möchte diese Aufgaben nächste Woche erledigen.
+
+## Arbeitspakete 12.12.2023
+- [ ] Advent of Code day 1 lösen
+- [ ] Im Notepad app eine Basic Find funktion einfügen
