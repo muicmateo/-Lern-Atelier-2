@@ -55,3 +55,6 @@ Heute war ich überall. Ich wollte den Advent of Code machen, bin aber nicht wei
 ## Arbeitspakete 12.12.2023
 - [ ] Advent of Code day 1 lösen
 - [ ] Im Notepad app eine Basic Find funktion einfügen
+
+## Abschluss Reflexion
+In der zweiten Lernperiode ging meine Projektarbeit nicht wie ich es erwartet habe. Ich habe die Arbeitspakete, genau wie in der Lern-Periode 1, schnell und ohne viel Überlegung erstellt, was dazu führte, dass einige zu einfach und andere zu schwer waren. Mit meinem Projekt bin ich unzufrieden, weil wenn ich bei einem Problem feststeckte, hätte ich einfach an der nächsten Sache arbeiten sollen, aber ich blieb wochenlang bei einem Problem, und am Ende konnte ich es nicht einmal erledigen. Die Zusammenarbeit mit Alex und Florian bei den Lehrerprojekten ging aber sehr gut und wir konnten jedes Mal etwas Neues erledigen. Für zukünftige Projekte plane ich, mir mehr Zeit zu nehmen, um meine Schritte zu planen, und ich möchte mich besser organisieren. Deshalb möchte ich in der nächste Lern-Periode einen kürzeren und einfacheren Projekt machen. (133 Wörter)
